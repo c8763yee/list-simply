@@ -1,0 +1,12 @@
+[
+  {
+    "file": "main.c",
+    "arguments": [
+      "gcc",
+      "-g",
+      "-I./include/",
+      "main.c"
+    ],
+    "directory": "/home/c8763yee/list-simply"
+  }
+]
